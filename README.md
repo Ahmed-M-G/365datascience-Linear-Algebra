@@ -1,2 +1,5 @@
 # 365datascience-Linear-Algebra
- Cover Scaler, Vector, Matrix, Tensor
+ **Cover concepts for**
+   - Vector
+   - Matrix
+   - Tensor
